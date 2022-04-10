@@ -1,0 +1,2 @@
+# cap-info
+Informational web
